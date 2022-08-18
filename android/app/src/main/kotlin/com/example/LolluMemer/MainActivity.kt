@@ -1,0 +1,7 @@
+package com.memebaaz.MemeBaaz
+
+import io.flutter.embedding.android.FlutterActivity
+
+
+class MainActivity: FlutterActivity() {
+}
