@@ -6,13 +6,12 @@ Memebaaz is a video/images sharing app, Anyone can share short videos and images
 
 ## Demo
 
-[Install From Play Store (30K+ Downloads)](https://play.google.com/store/apps/details?id=com.memebaaz.MemeBaaz
-)
+[Install From Play Store (30K+ Downloads)](https://play.google.com/store/apps/details?id=com.memebaaz.MemeBaaz) || [Direct Link](https://github.com/rawquesh/memebaaz/releases/download/apk/app-armeabi-v7a-release.apk)
 
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/27288409/185353359-5df6113a-6c3a-4fbd-845e-58d52d42f0af.png)
+![App Screenshot](https://user-images.githubusercontent.com/27288409/185353359-5df6113a-6c3a-4fbd-845e-58d52d42f0af.png) 
 
 
 ## Features
