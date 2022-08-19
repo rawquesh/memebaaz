@@ -1,7 +1,7 @@
 
 # MemeBaaz - Memes & Short Videos App
 
-Memebaaz is a video/images sharing app, Anyone can share short videos and images through app, the media will go through admin's approval.  
+Memebaaz is a Video/images Sharing App, Anyone can share short videos and images through app, the media will go through admin's approval.  
 
 
 ## Demo
