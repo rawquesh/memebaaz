@@ -41,7 +41,7 @@ class ContentModel {
     likes = doc['likes'];
     size = doc['size'];
     aspectRatio = doc['aspect_ratio'];
-    random = Random().nextInt(0);
+    random = 0;
   }
 
   Map<String, dynamic> toJson() {
