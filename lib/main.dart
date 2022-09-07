@@ -12,9 +12,10 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp();
-  await GetStorage.init();
-  manageStorage();
   await FirebaseAuth.instance.signInAnonymously();
+  await GetStorage.init();
+  
+  manageStorage();
   runApp(MyApp());
 }
 
